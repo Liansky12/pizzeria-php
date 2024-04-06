@@ -1,7 +1,8 @@
 {
     "name": "liansky12/pizzeria-php",
     "type": "project",
-    "license": "GPL-3.0 license",
+    "license": "AGPL-3.0-or-later",
+    "description": "Webapp PHP Pizzeria",
     "authors": [
         {
             "name": "Christian Alvarado",
