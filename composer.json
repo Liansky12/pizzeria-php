@@ -1,0 +1,12 @@
+{
+    "name": "liansky12/pizzeria-php",
+    "type": "project",
+    "license": "GPL-3.0 license",
+    "authors": [
+        {
+            "name": "Christian Alvarado",
+            "email": "aqchristian12@gmail.com"
+        }
+    ],
+    "require": {}
+}
