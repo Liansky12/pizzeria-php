@@ -9,8 +9,8 @@
  * Es necesario tener conectividad a Internet para
  * cargar el CDN de Tailwind CSS.
  */
-require_once './funciones.php';
 session_start();
+require_once './funciones.php';
 $conexion = conexion($_ENV['DB_DATABASE']);
 if (!$conexion)
   $GLOBALS['msg']['error'] = "No se ha podido establecer conexión con la base de datos. <a class='text-stone-950' href='./crear_bd.php'>Crear pizzería</a>";
