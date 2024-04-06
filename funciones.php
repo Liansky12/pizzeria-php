@@ -186,7 +186,7 @@ function verificarDatos($datos, $accion)
   return ['resp' => false, 'nuevosDatos' => [], 'errores' => $errores];
 }
 
-function accionUsuario($datos = null, $accion, $idUsuario = null)
+function accionUsuario($datos, $accion, $idUsuario = null)
 {
   $conexion = conexion($_ENV['DB_DATABASE']);
   try {
