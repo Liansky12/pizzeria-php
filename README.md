@@ -1,11 +1,31 @@
 # pizzeria-php
 
+<img width="1682" alt="image" src="https://github.com/user-attachments/assets/6c9e2df0-c6a5-4980-9c8f-76a613092bbb">
+
 ## Descripción
-Aplicación web programada en PHP 8.0
+Aplicación web programada en PHP 8.0 y estilos de TailwindCSS.
+
+### Usuarios
 
 Se trata de una página web donde los usuarios registrados pueden solicitar un encargo de pizzas personalizadas, eligiendo una base de pizza, un número indeterminado de ingredientes y un número de ejemplares.
 
+<img width="1682" alt="image" src="https://github.com/user-attachments/assets/e37430e7-4748-42c1-96e7-00a7162cfdca">
+
+<img width="1682" alt="image" src="https://github.com/user-attachments/assets/d769f8b7-ca65-49a0-9ce0-c8c9e3af41d9">
+
+<img width="1682" alt="image" src="https://github.com/user-attachments/assets/ac13db6a-31fc-4fc3-bd6a-a4759f7e8c33">
+
+Es posible visualizar de manera general la información del usuario, modificar sus datos o darse de baja en el sistema.
+
+<img width="1682" alt="image" src="https://github.com/user-attachments/assets/e0e41162-244d-45c2-b375-297009a2b30b">
+
+### Administrador
+
 Un usuario administrador podrá gestionar la pizzería de manera que podrá ver: datos estadísticos relevantes; agregar, editar y eliminar un ingrediente; ver los usuarios registrados; entre otras cosas.
+
+<img width="1682" alt="image" src="https://github.com/user-attachments/assets/2967cb14-95ab-40a2-a1b0-9012d61838d9">
+
+<img width="1682" alt="image" src="https://github.com/user-attachments/assets/92cc5f7b-cc35-4225-b856-d95f3dac2d11">
 
 ## Despligue en local
 
