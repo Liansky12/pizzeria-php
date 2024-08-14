@@ -9,5 +9,7 @@
             "email": "aqchristian12@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "vlucas/phpdotenv": "*"
+    }
 }
