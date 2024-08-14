@@ -33,5 +33,14 @@ Puedes probar la aplicación dando click en el enlace incluido en el repositorio
 
 Se ha incluido un fichero SQL (`pizzeria.sql`) y un script PHP (`crear_bd.php`). Debes asegurarte de configurar las variables de entorno cambiando el nombre de `.env.example` a `.env`. Es recomendable que definas el nombre de la base de datos como `pizzeria`. En caso contrario, deberás modificar el fichero `pizzeria.sql` y cambiar el nombre de la base de datos. Si prefieres no usar el fichero `crear_bd.php`, puedes copiar la estructura de tablas del fichero `pizzeria.sql` y configurar la base de datos manualmente.
 
+## Posibles inconvenientes
+
+Se ha optado por usar una librería para asegurarse de cargar correctamente las variables de entorno; por lo que es necesario tener instalador [Composer](https://getcomposer.org) y ejecutar el siguiente comando para descargar las dependencias:
+
+```bash
+composer install
+```
+
+
 ## Enlace de descarga
 [Pizzería PHP](https://github.com/Liansky12/pizzeria-php/releases/tag/v1.0.1)
